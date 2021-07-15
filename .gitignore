@@ -1,3 +1,4 @@
 
 cogs/ffmpeg/
 *.txt
+*.pyc
